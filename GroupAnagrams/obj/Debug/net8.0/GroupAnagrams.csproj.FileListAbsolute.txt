@@ -1,0 +1,14 @@
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\bin\Debug\net8.0\GroupAnagrams.exe
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\bin\Debug\net8.0\GroupAnagrams.deps.json
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\bin\Debug\net8.0\GroupAnagrams.runtimeconfig.json
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\bin\Debug\net8.0\GroupAnagrams.dll
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\bin\Debug\net8.0\GroupAnagrams.pdb
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\obj\Debug\net8.0\GroupAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\obj\Debug\net8.0\GroupAnagrams.AssemblyInfoInputs.cache
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\obj\Debug\net8.0\GroupAnagrams.AssemblyInfo.cs
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\obj\Debug\net8.0\GroupAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\obj\Debug\net8.0\GroupAnagrams.dll
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\obj\Debug\net8.0\refint\GroupAnagrams.dll
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\obj\Debug\net8.0\GroupAnagrams.pdb
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\obj\Debug\net8.0\GroupAnagrams.genruntimeconfig.cache
+C:\Users\leo_d\Documents\Programming\.NET\GroupAnagrams\GroupAnagrams\obj\Debug\net8.0\ref\GroupAnagrams.dll
